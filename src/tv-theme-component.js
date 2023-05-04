@@ -96,7 +96,7 @@ export class tvMain extends LitElement {
     this.brandName='All 10s!'
 
     this.logo= new URL('../assets/10s.jpg', import.meta.url).href;
-    this.image= new URL('../assets/album.PNG', import.meta.url).href;
+    this.image= new URL('../assets/album.png', import.meta.url).href;
 
   }
 
