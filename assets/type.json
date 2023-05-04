@@ -1,0 +1,148 @@
+[
+    {
+        "tvColor": "red",
+        "tvIntenna": "gold",
+        "border": "black",
+        "textColor": "gold",
+        "tvOutline": "darkred",
+        "cardColor": "maroon",
+    
+        "topblock1": "darkred",
+        "topblock2": "gold",
+        "topblock3": "darkred",
+        "topblock4": "gold",
+        "topblock5": "darkred",
+        "topblock6": "gold",
+        "topblock7": "darkred",
+    
+        "bottomBlock1": "gray",
+        "bottomBlock3": "gray",
+        "bottomBlock5": "gray",
+        "bottomBlock7": "gray",
+    
+        "badgeTitleColor": "black",
+    
+        "eventBadgeTitle": "Epic",
+        "eventBadgeAuthor": "Kanye West",
+        "titleOfAuthor": "My Beautiful Dark Twisted Fantasy",
+        "brandName": "10/10 Album!",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/MBDTF_ALT.jpg/220px-MBDTF_ALT.jpg"
+    },
+    {
+        "tvColor": "mediumvioletred",
+    "tvIntenna": "plum",
+    "border": "darkviolet",
+    "textColor": "lavender",
+    "tvOutline": "indigo",
+    "cardColor": "violet",
+
+    "topblock1": "mediumvioletred",
+    "topblock2": "plum",
+    "topblock3": "mediumvioletred",
+    "topblock4": "plum",
+    "topblock5": "mediumvioletred",
+    "topblock6": "plum",
+    "topblock7": "mediumvioletred",
+
+    "bottomBlock1": "darkviolet",
+    "bottomBlock3": "darkviolet",
+    "bottomBlock5": "darkviolet",
+    "bottomBlock7": "darkviolet",
+
+    "badgeTitleColor": "white",
+
+    "eventBadgeTitle": "Chill",
+    "eventBadgeAuthor": "Tory Lanez",
+    "titleOfAuthor": "The Color Violet",
+    "brandName": "Chill Album",
+    
+        "image": "https://i1.sndcdn.com/artworks-YJvxchLo249j-0-t500x500.jpg"
+        },
+        {
+            "tvColor": "darkred",
+     "tvIntenna": "black",
+    "border": "red",
+    "textColor": "red",
+    "tvOutline": "gray",
+    "cardColor": "black",
+
+    "topblock1": "darkred",
+    "topblock2": "gray",
+    "topblock3": "darkred",
+    "topblock4": "gray",
+    "topblock5": "darkred",
+    "topblock6": "gray",
+    "topblock7": "darkred",
+
+    "bottomBlock1": "red",
+    "bottomBlock3": "red",
+    "bottomBlock5": "red",
+    "bottomBlock7": "red",
+
+    "badgeTitleColor": "white",
+
+    "eventBadgeTitle": "Sultry",
+    "eventBadgeAuthor": "The Weeknd",
+    "titleOfAuthor": "StarBoy",
+    "brandName": "Amazing Album",
+            "image": "https://pyxis.nymag.com/v1/imgs/6d7/008/b20deeaf26fe2cdf0796d1e0ab4d5473bd-05-starboy.2x.h473.w710.jpg"
+            },
+            {
+                "tvColor": "white",
+    "tvIntenna": "lightyellow",
+    "border": "beige",
+    "textColor": "black",
+    "tvOutline": "sandybrown",
+    "cardColor": "blanchedalmond",
+
+    "topblock1": "wheat",
+    "topblock2": "beige",
+    "topblock3": "wheat",
+    "topblock4": "beige",
+    "topblock5": "wheat",
+    "topblock6": "beige",
+    "topblock7": "wheat",
+
+    "bottomBlock1": "navajowhite",
+    "bottomBlock3": "navajowhite",
+    "bottomBlock5": "navajowhite",
+    "bottomBlock7": "navajowhite",
+
+    "badgeTitleColor": "black",
+
+    "eventBadgeTitle": "Dreamy",
+    "eventBadgeAuthor": "Frank Ocean",
+    "titleOfAuthor": "Blond",
+    "brandName": "My Favorite R&B Album!",
+                "image": "https://i1.sndcdn.com/artworks-6nxYqVnR1zgGoZa1-LzVTvw-t500x500.jpg"
+                },
+                {
+                    "tvColor": "royalblue",
+    "tvIntenna": "darkblue",
+    "border": "blue",
+    "textColor": "white",
+    "tvOutline": "dodgerblue",
+    "cardColor": "darkblue",
+
+    "topblock1": "royalblue",
+    "topblock2": "dodgerblue",
+    "topblock3": "royalblue",
+    "topblock4": "dodgerblue",
+    "topblock5": "royalblue",
+    "topblock6": "dodgerblue",
+    "topblock7": "royalblue",
+
+    "bottomBlock1": "blue",
+    "bottomBlock3": "blue",
+    "bottomBlock5": "blue",
+    "bottomBlock7": "blue",
+
+    "badgeTitleColor": "white",
+
+    "eventBadgeTitle": "Happy",
+    "eventBadgeAuthor": "J. Cole",
+    "titleOfAuthor": "2014 Forest Hills Drive ",
+    "brandName": "My Favorite Rap Album",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/2014ForestHillsDrive.jpg"
+                    }
+]
