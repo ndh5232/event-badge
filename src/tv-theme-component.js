@@ -95,8 +95,8 @@ export class tvMain extends LitElement {
     this.titleOfAuthor='Welcome to my favorite Albums!';
     this.brandName='All 10s!'
 
-    this.logo= new URL('../assets/10s.jpg', import.meta.url).href;
-    this.image= new URL('../assets/album.PNG', import.meta.url).href;
+    this.logo= 'https://i.scdn.co/image/ab67616d0000b27328c886d8404a6c9ee594464d'
+    this.image= 'https://i0.wp.com/kjhk.org/web/wp-content/uploads/2020/02/top-50-aotd.png?resize=914%2C458&ssl=1'
 
   }
 
